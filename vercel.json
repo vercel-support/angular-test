@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/assets/a.txt",
+      "destination": "/assets/b/a.txt"
+    }
+  ]
+}
