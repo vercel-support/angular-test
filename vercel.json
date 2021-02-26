@@ -1,8 +1,8 @@
 {
-  "rewrites": [
+  "routes": [
     {
-      "source": "/assets/a.txt",
-      "destination": "/assets/b/a.txt"
+      "src": "/assets/a.txt",
+      "dest": "/assets/b/a.txt"
     }
   ]
 }
